@@ -39,7 +39,10 @@ a {
 .home-design{
     text-align: center;
       background-image: url(../MSC20003552.jpg );
- height: 800px;
+ height: 600px;
+ background-position: center;
+ background-repeat: no-repeat;
+ background-size: cover;
 }
 
 section {
