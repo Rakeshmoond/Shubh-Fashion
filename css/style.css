@@ -128,7 +128,9 @@ section {
 .navbar {
     box-shadow: var(--shadow);
 }
-
+.dropdown p:hover{
+    cursor:pointer;
+}
 .social-icons a {
     width: 28px;
     height: 28px;
