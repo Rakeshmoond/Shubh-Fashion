@@ -37,9 +37,6 @@ a {
     font-weight: 500;
 }
 
-a:hover {
-    color: var(--brand);
-}
 
 section {
     padding-top: 80px;
