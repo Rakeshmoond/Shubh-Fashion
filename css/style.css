@@ -188,13 +188,13 @@ label b{
 
 footer {
     background: linear-gradient(0deg, rgba(8, 32, 50, 0.9), rgba(8, 32, 50, 0.9)), url(../MSC20003552.jpg), #082032;;
-    background-size: cover;
-    background-position: center;
+  
+   
     background-repeat: no-repeat;
 }
 
 footer .footer-top {
-    padding-top: 80px;
+    padding-top: 30px;
     padding-bottom: 40px;
 }
 
