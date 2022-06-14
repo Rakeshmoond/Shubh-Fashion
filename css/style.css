@@ -176,6 +176,8 @@ text-align: center;}
 }
 .service img {
     width: 90px;
+    height: 90px;
+    border-radius: 100%;
 }
 /* order tracking */
 #order-tracking{
