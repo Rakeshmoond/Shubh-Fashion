@@ -154,7 +154,11 @@ text-align: center;}
     display: flex;
 }
 
-
+iframe{
+    align-items: center;
+    padding-left: 0px;
+    
+}
 
 
 .service {
@@ -181,7 +185,6 @@ text-align: center;}
 }
 /* order tracking */
 #order-tracking{
-    text-align: center;
     display:inline-flexbox ;
 }
 label b{
