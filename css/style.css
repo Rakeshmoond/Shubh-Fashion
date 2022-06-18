@@ -46,7 +46,6 @@ a {
  overflow: hidden;
  margin-left: 10px;
  margin-right: 10px;
- background-size: 100% 100%;
 }
 .home-design h1{
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
@@ -87,9 +86,7 @@ section {
 .navbar {
     box-shadow: var(--shadow);
 }
-.dropdown p:hover{
-    cursor:pointer;
-}
+
 .social-icons a {
     width: 28px;
     height: 28px;
