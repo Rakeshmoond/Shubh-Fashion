@@ -27,6 +27,17 @@ h1,h2,h3,h4,h5,h6,
     background-repeat: no-repeat;
 }
 
+@media (max-device-width: 800px) {
+  .centerMobileOnly {
+    display: flex !important;
+    margin-left: 0px !important;
+    align-items: center;
+    justify-content: center;
+    float: none !important;
+    margin-right: 0px !important;
+  }
+}
+
 img {
     width: 100%;
 }
@@ -38,8 +49,8 @@ a {
 }
 .home-design{
     text-align: center;
-      background: url(../WhatsApp\ Image\ 2022-06-16\ at\ 6.10.57\ PM.jpeg) ;
-      height:600px;
+      background: url(../fabric_export.jpg) ;
+      height: 100%;
  background-position: center;
  background-repeat: no-repeat;
  background-size: cover;
@@ -53,12 +64,13 @@ a {
   color:black;
   opacity: var(--dark);
   content-visibility:var(--dark);
-  background-color: aqua;
+  background-color: white;
+  margin-top: 24%;
 
 }
 section {
-    padding-top: 80px;
-    padding-bottom: 80px;
+    padding-top: 40px;
+    padding-bottom: 40px;
 }
 
 .text-brand {
@@ -66,7 +78,7 @@ section {
 }
 /* navbar */
 .top-nav {
-    background-color: var(--brand);
+    background-color: #b23760;
     color: #fff;
     padding-top: 5px;
     padding-bottom: 5px;
